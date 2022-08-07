@@ -39,6 +39,7 @@
     🔮 [انگلیسی] کتاب Selenium WebBrowser Automation : <a href="https://drive.google.com/file/d/1lafIdmDMeLK_hN12-UzsHi1SGPWtdbbV/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <br>
+<h1 align="right">🎥بخش آموزش‌های ویدیویی🎥</h1>
 <p align="right">
     <b>
         💻 آموزش‌های پروژه محور:
