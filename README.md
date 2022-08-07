@@ -20,7 +20,7 @@
     </b>
 </p>
 <p align="right">
-    🔹 [انگلیسی] کتاب Python Crash Course که خیلی معروف و خوبه: <a href="https://drive.google.com/file/d/1_Othl7YjQk5tVkggdd4irdww9saYFvz-/view?usp=sharing">+دانلود+</a>
+    🔹 [انگلیسی] کتاب Python Crash Course که خیلی معروف و خوبه: <a href="https://drive.google.com/file/d/1_Othl7YjQk5tVkggdd4irdww9saYFvz-/view?usp=sharing" target="_blank">+دانلود+</a>
 </p>
 <br>
 <p align="right">
