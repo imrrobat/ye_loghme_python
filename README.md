@@ -14,7 +14,7 @@
 
 <p align="right">
     <p>🗺 نقشه راه پایتون:</p>
-    <p>https://youtu.be/38j26m-RyPs</p>
+    <p align="right">https://youtu.be/38j26m-RyPs</p>
 </p>
 
 💻 آموزش‌های پروژه محور:
