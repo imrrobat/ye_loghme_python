@@ -10,9 +10,17 @@
         🔰چیزایی که برای شروع لازمه:
     </b>
 </p>
-
 <p align="right">
     🗺نقشه راه پایتون: https://youtu.be/38j26m-RyPs
+</p>
+<br>
+<p align="right">
+    <b>
+        📚 کتاب‌های پایتون:
+    </b>
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب Python Crash Course که خیلی معروف و خوبه: <a href="https://drive.google.com/file/d/1_Othl7YjQk5tVkggdd4irdww9saYFvz-/view?usp=sharing>+دانلود+</a>
 </p>
 <br>
 <p align="right">
