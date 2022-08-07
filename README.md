@@ -2,8 +2,8 @@
 <img src="https://user-images.githubusercontent.com/109177330/183283424-ddc028e0-0c71-4c55-ac79-42e8d9146e6b.jpg" alt="ye loghme python!">
 <p align="center">یه لقمه پایتون قراره هر چیزی که برای یادگیری پایتون نیازه رو توی خودش داشته باشه...☺️
 </p>
-🔰چیزایی که برای شروع لازمه
-
+<p align="right"><bold>🔰چیزایی که برای شروع لازمه
+</bold></p>
 نقشه راه پایتون:
 https://youtu.be/38j26m-RyPs
 
