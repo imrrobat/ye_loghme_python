@@ -22,6 +22,9 @@
 <p align="right">
     🔹 [انگلیسی] کتاب Python Crash Course که خیلی معروف و خوبه: <a href="https://drive.google.com/file/d/1_Othl7YjQk5tVkggdd4irdww9saYFvz-/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
+<p align="right">
+    🔹 [فارسی] کتاب آموزش سریع پایتون پایه: <a href="https://drive.google.com/file/d/1ng_epjLQlNpRQkYppDDUEG_xL4JKbvfr/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+</p>
 <br>
 <p align="right">
     <b>
