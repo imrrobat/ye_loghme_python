@@ -50,6 +50,7 @@
 <p align="right">
     🕸 [انگلیسی] آموزش پایتون از دبلیو تری اسکولز : <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
 </p>
+<br>
 <p align="right">
     <b>
         🐍 جنگو: 
