@@ -1,4 +1,4 @@
-# یه_لقمه_پایتون
+# یه_لقمه_پایتون 🐍🍕
 <p align="center">
     <img src="https://user-images.githubusercontent.com/109177330/183283424-ddc028e0-0c71-4c55-ac79-42e8d9146e6b.jpg" alt="ye loghme python!">
 </p>
