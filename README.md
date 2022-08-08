@@ -38,6 +38,19 @@
     🔹 [انگلیسی] کتاب Selenium WebBrowser Automation : <a href="https://drive.google.com/file/d/1lafIdmDMeLK_hN12-UzsHi1SGPWtdbbV/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <br>
+<h1 align="right">🎓 منابع آموزشی آنلاین و رایگان 🎓</h1>
+<p align="right">
+    <b>
+        🐍 پایتون پایه:
+    </b>
+</p>
+<p align="right">
+    🕸 [فارسی] کتاب آنلاین پایتون کدرز : <a href="https://python.coderz.ir/index.html" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
+<p align="right">
+    🕸 [انگلیسی] آموزش پایتون از دبلیو تری اسکولز : <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
+<br>
 <h1 align="right">🎥بخش آموزش‌های ویدیویی🎥</h1>
 <p align="right">
     <b>
