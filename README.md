@@ -28,6 +28,9 @@
 <p align="right">
     🔹 [انگلیسی] کتاب پایتون فور دامیز که اوف دیگه! : <a href="https://drive.google.com/file/d/1b0D4U8Oq-T8gTB_McFjev-aeG3-LOm9R/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
+<p align="right">
+    🔹 [فارسی] کتاب شروع برنامه‌نویسی پایتون از مهدی سلیمی: <a href="https://drive.google.com/file/d/1sFKA12YK6Kn2lclByzi2xpQi6z5AkJU9/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+</p>
 <br>
 <p align="right">
     <b>
