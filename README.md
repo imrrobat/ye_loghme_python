@@ -50,8 +50,28 @@
 <p align="right">
     🕸 [انگلیسی] آموزش پایتون از دبلیو تری اسکولز : <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
 </p>
+<p align="right">
+    <b>
+        🐍 جنگو: 
+    </b>
+</p>
+<p align="right">
+    🕸 [انگلیسی] داکیومنت‌ جنگو پروجکت: <a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
+<p align="right">
+    🕸 [انگلیسی] آموزش جنگو از دبلیو تری اسکولز : <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
 <br>
 <h1 align="right">🎥بخش آموزش‌های ویدیویی🎥</h1>
+<p align="right">
+    <b>
+        💡 آموزش‌های کلی: 
+    </b>
+</p>
+<p align="right">
+    🔋 پلی لیست درک برنامه‌نویسی با جادی: <a href="https://www.youtube.com/watch?v=BR7m_2D_-Uw&list=PL-tKrPVkKKE1Y_o_h2w85dzVdoX5t7SI0" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
+<br>
 <p align="right">
     <b>
         💻 آموزش‌های پروژه محور:
