@@ -5,7 +5,7 @@
 <p align="center">
     یه لقمه پایتون قراره هر چیزی که برای یادگیری پایتون نیازه رو توی خودش داشته باشه...☺️
 </p>
-<p align="right">(آخرین آپدیت: 17 مرداد 1401)</p>
+<p align="center">✍️ (آخرین آپدیت: 17 مرداد 1401) ✍️</p>
 <h1 align="right">📖فهرست📖</h1>
 <p align="right">
     🔰چیزایی که برای شروع لازمه 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%DA%86%DB%8C%D8%B2%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A7%D8%B2%D9%85%D9%87">+بزن بریم+</a>
