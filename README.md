@@ -6,7 +6,7 @@
     یه لقمه پایتون قراره هر چیزی که برای یادگیری پایتون نیازه رو توی خودش داشته باشه...☺️
 </p>
 <p align="center">✍️ (تاریخ ساخت مخزن: 16 مرداد 1401) ✍️</p>
-<p align="center">✍️ (آخرین آپدیت: 18 مرداد 1401) ✍️</p>
+<p align="center">✍️ (آخرین آپدیت: 19 مرداد 1401) ✍️</p>
 <h1 align="right">📖فهرست📖</h1>
 <p align="right">
     🔰چیزایی که برای شروع لازمه 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%DA%86%DB%8C%D8%B2%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A7%D8%B2%D9%85%D9%87">+بزن بریم+</a>
@@ -15,7 +15,7 @@
     📚بخش کتاب‌ها 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%D8%A8%D8%AE%D8%B4-%DA%A9%D8%AA%D8%A7%D8%A8%D9%87%D8%A7">+بزن بریم+</a>
 </p>
 <p align="right">
-    🎓منابع آموزشی آنلاین و رایگان 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#-%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D9%88-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-">+بزن بریم+</a>
+    🎓منابع آموزشی آنلاین و رایگان 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%D9%85%D9%86%D8%A7%D8%A8%D8%B9-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D9%88-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86">+بزن بریم+</a>
 </p>
 <p align="right">
     🎥بخش آموزش‌های ویدیویی 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%D8%A8%D8%AE%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C">+بزن بریم+</a>
@@ -37,6 +37,9 @@
 </p>
 <p align="right">
     🔹 [فارسی] کتاب آموزش سریع پایتون پایه: <a href="https://drive.google.com/file/d/1ng_epjLQlNpRQkYppDDUEG_xL4JKbvfr/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+</p>
+<p align="right">
+    🔹 [فارسی] کتاب از این پس پایتون: <a href="https://drive.google.com/file/d/1lPojBbZQGH5VB8HCwUAdELkB_5LFgDXc/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <p align="right">
     🔹 [فارسی] کتاب شروع برنامه‌نویسی پایتون از مهدی سلیمی: <a href="https://drive.google.com/file/d/1sFKA12YK6Kn2lclByzi2xpQi6z5AkJU9/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
