@@ -53,6 +53,15 @@
 <br>
 <p align="right">
     <b>
+        📚 کتاب‌های Django:
+    </b>
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب The Definitive Guide to Django : <a href="https://drive.google.com/file/d/1r67XUKi3a7Gm85Nn7R0V6GmzIieJUvog/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+</p>
+<br>
+<p align="right">
+    <b>
         📚 کتاب‌های Selenium:
     </b>
 </p>
