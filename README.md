@@ -42,7 +42,7 @@
     🔹 [فارسی] کتاب از این پس پایتون: <a href="https://drive.google.com/file/d/1lPojBbZQGH5VB8HCwUAdELkB_5LFgDXc/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <p align="right">
-    🔹 [فارسی] کتاب شروع برنامه‌نویسی پایتون از مهدی سلیمی: <a href="https://drive.google.com/file/d/1sFKA12YK6Kn2lclByzi2xpQi6z5AkJU9/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+    🔹 [فارسی] کتاب پایتون آبی: <a href="https://drive.google.com/file/d/1-Ik3eJgQXZCKxVW5gPEujoaF2526BgDs/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <p align="right">
     🔹 [انگلیسی] کتاب Python Crash Course که خیلی معروف و خوبه: <a href="https://drive.google.com/file/d/1_Othl7YjQk5tVkggdd4irdww9saYFvz-/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
