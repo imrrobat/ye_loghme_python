@@ -6,7 +6,7 @@
     یه لقمه پایتون قراره هر چیزی که برای یادگیری پایتون نیازه رو توی خودش داشته باشه...☺️
 </p>
 <p align="center">✍️ (تاریخ ساخت مخزن: 16 مرداد 1401) ✍️</p>
-<p align="center">✍️ (آخرین آپدیت: 19 مرداد 1401) ✍️</p>
+<p align="center">✍️ (آخرین آپدیت: 24 مرداد 1401) ✍️</p>
 <h1 align="right">📖فهرست📖</h1>
 <p align="right">
     🔰چیزایی که برای شروع لازمه 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%DA%86%DB%8C%D8%B2%D8%A7%DB%8C%DB%8C-%DA%A9%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D8%A7%D8%B2%D9%85%D9%87">+بزن بریم+</a>
@@ -67,6 +67,15 @@
 </p>
 <p align="right">
     🔹 [انگلیسی] کتاب Selenium WebBrowser Automation : <a href="https://drive.google.com/file/d/1lafIdmDMeLK_hN12-UzsHi1SGPWtdbbV/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+</p>
+<br>
+<p align="right">
+    <b>
+        📚 کتاب‌های اتوماسیون: 
+    </b>
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب PyAutoGUI Documentation: <a href="https://drive.google.com/file/d/1E2eaKKmuuzDiAEPqdxZA3ecgI9pQuFHf/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <br>
 <h1 align="right">🎓منابع آموزشی آنلاین و رایگان🎓</h1>
