@@ -23,6 +23,9 @@
 <br>
 <h1 align="right">🔰چیزایی که برای شروع لازمه🔰</h1>
 <p align="right">
+    🤓 کلاس آموزش پایتون پایه: http://icodeacademy.ir/product/python-with-mrrobot/
+</p>
+<p align="right">
     🗺 نقشه راه پایتون: https://youtu.be/38j26m-RyPs
 </p>
 <p align="right">
