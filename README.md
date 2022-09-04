@@ -65,6 +65,15 @@
 <br>
 <p align="right">
     <b>
+        📚 کتاب‌های GUI با پایتون:
+    </b>
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب Creating Apps in Kivy : <a href="https://raw.githubusercontent.com/imrrobat/ye_loghme_python/main/GUI%20books/Creating%20Apps%20in%20Kivy_%5B%40LearnPY%5D.pdf" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
+</p>
+<br>
+<p align="right">
+    <b>
         📚 کتاب‌های Selenium:
     </b>
 </p>
@@ -78,7 +87,7 @@
     </b>
 </p>
 <p align="right">
-    🔹 [انگلیسی] داکیومنت کتابخانه Aiogram: <a href="https://drive.google.com/file/d/1B5rsNRRJcb-q5Rq4ig2Fv6J7Dw3nROpw/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+    🔹 [انگلیسی] داکیومنت کتابخانه Aiogram: <a href="https://drive.google.com/file/d/1B5rsNRRJcb-q5Rq4ig2Fv6J7Dw3nROpw/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
 </p>
 <br>
 <p align="right">
