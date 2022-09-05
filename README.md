@@ -20,6 +20,9 @@
 <p align="right">
     🎥بخش آموزش‌های ویدیویی 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%D8%A8%D8%AE%D8%B4-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%D9%87%D8%A7%DB%8C-%D9%88%DB%8C%D8%AF%DB%8C%D9%88%DB%8C%DB%8C">+بزن بریم+</a>
 </p>
+<p align="right">
+    ⭐️بخش سایت‌های جالب 👈👈 <a href="https://github.com/imrrobat/ye_loghme_python/blob/main/README.md#%EF%B8%8F%D8%B3%D8%A7%DB%8C%D8%AA%D9%87%D8%A7%DB%8C-%D8%AC%D8%A7%D9%84%D8%A8%EF%B8%8F">+بزن بریم+</a>
+</p>
 <br>
 <h1 align="right">🔰چیزایی که برای شروع لازمه🔰</h1>
 <p align="right">
