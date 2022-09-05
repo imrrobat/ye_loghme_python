@@ -89,11 +89,11 @@
 <br>
 <p align="right">
     <b>
-        📚 کتاب‌های Selenium:
+        📚 کتاب‌های PyGame:
     </b>
 </p>
 <p align="right">
-    🔹 [انگلیسی] کتاب Selenium WebBrowser Automation : <a href="https://drive.google.com/file/d/1lafIdmDMeLK_hN12-UzsHi1SGPWtdbbV/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+    🔹 [انگلیسی] کتاب McGugan - Beginning Game Development with Python : <a href="https://drive.google.com/file/d/1M_K6w6LABgq5WXKDPvG4IhxNzFEaed7p/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <br>
 <p align="right">
@@ -112,6 +112,9 @@
 </p>
 <p align="right">
     🔹 [انگلیسی] کتاب Automate the Boring Stuff with Python: <a href="https://drive.google.com/file/d/11RcNEcJd21wtp7dezfD-H7_TfPXY2qaN/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب Selenium WebBrowser Automation : <a href="https://drive.google.com/file/d/1lafIdmDMeLK_hN12-UzsHi1SGPWtdbbV/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
 </p>
 <p align="right">
     🔹 [انگلیسی] کتاب PyAutoGUI Documentation: <a href="https://drive.google.com/file/d/1E2eaKKmuuzDiAEPqdxZA3ecgI9pQuFHf/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
