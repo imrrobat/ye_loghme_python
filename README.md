@@ -80,6 +80,15 @@
 <br>
 <p align="right">
     <b>
+        📚 کتاب‌های ماشین لرنینگ: 
+    </b>
+</p>
+<p align="right">
+    🔹 [انگلیسی] کتاب Machine Learning with Python - Tutorialspoint : <a href="https://drive.google.com/file/d/17Lifuz_5lv5D45WrdmQIRy_iwa6uQtWa/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
+</p>
+<br>
+<p align="right">
+    <b>
         📚 کتاب‌های Selenium:
     </b>
 </p>
