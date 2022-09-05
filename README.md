@@ -93,7 +93,7 @@
     </b>
 </p>
 <p align="right">
-    🔹 [انگلیسی] کتاب McGugan - Beginning Game Development with Python : <a href="https://drive.google.com/file/d/1M_K6w6LABgq5WXKDPvG4IhxNzFEaed7p/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+    🔹 [انگلیسی] کتاب McGugan - Beginning Game Development with Python : <a href="https://drive.google.com/file/d/1M_K6w6LABgq5WXKDPvG4IhxNzFEaed7p/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
 </p>
 <br>
 <p align="right">
