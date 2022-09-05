@@ -145,6 +145,9 @@
     🕸 [انگلیسی] داکیومنت‌ جنگو پروجکت: <a href="https://docs.djangoproject.com/en/4.1/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
 </p>
 <p align="right">
+    🕸 [انگلیسی] داکیومنت‌ Django Girls Tutorial: <a href="https://tutorial.djangogirls.org/en/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a> 🆕
+</p>
+<p align="right">
     🕸 [انگلیسی] آموزش جنگو از دبلیو تری اسکولز : <a href="https://www.w3schools.com/django/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
 </p>
 <br>
