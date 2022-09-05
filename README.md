@@ -60,7 +60,7 @@
     </b>
 </p>
 <p align="right">
-    🔹 [انگلیسی] کتاب Two Scoops of Django 3.x : <a href="https://drive.google.com/file/d/1iX4gAw0_So4deQVxvAQRk8TyyeXA0mCE/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
+    🔹 [انگلیسی] کتاب Two Scoops of Django 3.x : <a href="https://drive.google.com/file/d/1iX4gAw0_So4deQVxvAQRk8TyyeXA0mCE/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a> 🆕
 </p>
 <p align="right">
     🔹 [انگلیسی] کتاب The Definitive Guide to Django : <a href="https://drive.google.com/file/d/1r67XUKi3a7Gm85Nn7R0V6GmzIieJUvog/view?usp=sharing" target="_blank" rel="noreferrer noopener">+دانلود+</a>
