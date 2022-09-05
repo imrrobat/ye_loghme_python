@@ -187,3 +187,9 @@
 <p align="right">
     🔸 اجرای پایتون در فایل اچ تی ام ال: https://youtu.be/TzMQE9LPcuI
 </p>
+<br>
+<h1 align="right">⭐️سایت‌های جالب⭐️</h1>
+<p align="right">
+    🌈 سایت معمایی پایتون چلنج: <a href="http://www.pythonchallenge.com/" target="_blank" rel="noreferrer noopener">+رفتن به صفحه+</a>
+</p>
+<br>
